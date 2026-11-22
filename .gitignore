@@ -1,0 +1,6 @@
+build/
+*.ini
+*.obj
+*.res
+*.pdb
+*.exe
