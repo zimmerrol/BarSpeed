@@ -2,6 +2,8 @@
 
 A lightweight, clean, from-scratch Windows 11 taskbar network speed and ping monitor written in native C++20 and Win32 APIs — with **zero third-party dependencies**.
 
+> Fully vibe-coded with Antigravity and Gemini 4 Neon.
+
 ## Features
 
 - **Native Windows 11 Taskbar Integration**: Renders directly on the Windows 11 taskbar next to the system tray chevron using per-pixel alpha Direct2D + DirectWrite (`UpdateLayeredWindow`), seamlessly matching both Dark Mode and Light Mode Acrylic/Mica taskbars.
